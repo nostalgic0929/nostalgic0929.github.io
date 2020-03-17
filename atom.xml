@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nostalgic0929.github.io</id>
     <title>小窝</title>
-    <updated>2020-03-17T02:54:18.905Z</updated>
+    <updated>2020-03-17T04:47:22.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nostalgic0929.github.io"/>
     <link rel="self" href="https://nostalgic0929.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://nostalgic0929.github.io/images/avatar.png</logo>
     <icon>https://nostalgic0929.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小窝</rights>
+    <entry>
+        <title type="html"><![CDATA[实验]]></title>
+        <id>https://nostalgic0929.github.io/post/shi-yan/</id>
+        <link href="https://nostalgic0929.github.io/post/shi-yan/">
+        </link>
+        <updated>2020-03-17T02:56:04.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://nostalgic0929.github.io/post/hello-gridea/</id>
