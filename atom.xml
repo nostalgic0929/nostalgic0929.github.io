@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nostalgic0929.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-03-17T02:42:13.825Z</updated>
+    <title>小窝</title>
+    <updated>2020-03-17T02:51:06.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nostalgic0929.github.io"/>
     <link rel="self" href="https://nostalgic0929.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>种种的疑惑到头来总会发现真相，失舵的船只有时也会安然抵港。</subtitle>
     <logo>https://nostalgic0929.github.io/images/avatar.png</logo>
     <icon>https://nostalgic0929.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 小窝</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://nostalgic0929.github.io/post/hello-gridea/</id>
